@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pramod</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishnu</h1>
 <h3 align="center">I'm a passionate Full Stack Developer </h3>
 
 
@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **prasma403@gmail.com**
+- 📫 How to reach me **vishnuachi1508@gmail.com**
 
-- ⚡ Fun fact **Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.**
+- ⚡ Fact **Copper door knobs are self-disinfecting..**
 
 ## 🚀 Languages and Tools:
 
@@ -35,16 +35,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/PramodSri1709/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PramodSri1709's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PramodSri1709&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Vishnuedge/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishnuedge's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnuedge&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/PramodSri1709/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PramodSri1709&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PramodSri1709/github-readme-stats"><img alt="Vishnu Karthick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramodSri1709&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Vishnuedge/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vishnuedge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Vishnuedge/github-readme-stats"><img alt="Vishnu Karthick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuedge&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/PramodSri1709/github-readme-activity-graph"><img alt="Vishnu Karthick's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PramodSri1709&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Vishnuedge/github-readme-activity-graph"><img alt="Vishnu Karthick's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishnuedge&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -60,14 +60,14 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "http://linkedin.com/in/pramod-sri-888079162"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "www.linkedin.com/in/vishnukarthick-15"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<a href = "https://www.instagram.com/pramod_sri_1709/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/vishnuedge/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=PramodSri1709">
+    <img src="https://komarev.com/ghpvc/?username=Vishnuedge">
 </a>
-<a href="https://github.com/PramodSri1709?tab=followers"><img src="https://img.shields.io/github/followers/PramodSri1709?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Vishnuedge?tab=followers"><img src="https://img.shields.io/github/followers/Vishnuedge?label=Followers&style=social" alt="GitHub Badge"></a>
